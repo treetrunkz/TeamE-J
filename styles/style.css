@@ -1,0 +1,133 @@
+/* For smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* To add a little space & anchor elements */
+.spacer{
+  padding-top: 1em;
+}
+
+.map-container {
+  overflow: hidden;
+  position: relative;
+  height: 0;
+}
+
+.map-container iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+/* Might take these out */
+.warning {
+  font-size: 1em;
+  font-weight: bold;
+  color: red;
+  visibility: hidden;
+}
+
+/* Might take these out */
+.go {
+  font-size: 1em;
+  font-weight: bold;
+  color: green;
+  visibility: hidden;
+}
+
+/* Slows Style of Check */
+.slow  .toggle-group { 
+  transition: left 1s; -webkit-transition: left 1s;
+}
+
+#other-form {
+  display: none;
+}
+
+#invalid-fName {
+  display: none;
+}
+
+#invalid-lName {
+  display: none;
+}
+
+#invalid-email {
+  display: none;
+}
+
+#invalid-number {
+  display: none;
+}
+
+#invalid-zip {
+  display: none;
+}
+
+#alert-zip {
+  display: none;
+}
+
+#alert-contact {
+  display: none;
+}
+
+#alert-name {
+  display: none;
+}
+
+#alert-check {
+  display: none;
+}
+
+#form-switch {
+  display: flex;
+}
+
+#form-closed-alert {
+  display: none;
+}
+
+#invalid-other {
+  display: none;
+}
+
+#form-finished {
+  display: none;
+}
+
+#form-finish-frame {
+  display: none;
+}
+
+/* Hide Uploads 
+#div-bill {
+  display: none;
+}
+
+#div-notice {
+  display: none;
+}
+
+#div-eviction {
+  display: none;
+}
+
+#div-license {
+  display: none;
+}*/
+
+#alert-zip-incorrect {
+  display: none;
+}
+
+#zip-success {
+    display: none;
+}
+
+#zip-outside {
+    display: none;
+}

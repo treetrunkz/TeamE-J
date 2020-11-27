@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa0a9769-85e2-46f8-b1a6-49624690551e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1ksevS8DDACtAq5AtbS3ehiS7N7" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa0a9769-85e2-46f8-b1a6-49624690551e" name="Default Changelist" comment="" />
+      <created>1606493991130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606493991130</updated>
+      <workItem from="1606494011910" duration="387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="213" key="#Deployment" timestamp="1606494410949">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="536" y="213" key="#Deployment/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1606494410949" />
+    <state x="520" y="200" key="#SSH_Configurations" timestamp="1606494340484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="520" y="200" key="#SSH_Configurations/0.0.1920.1040/0.1080.1920.1040@0.0.1920.1040" timestamp="1606494340484" />
+  </component>
+</project>
